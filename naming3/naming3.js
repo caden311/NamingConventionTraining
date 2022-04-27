@@ -1,0 +1,3 @@
+const onItmClk = () => {}
+
+const onItemClick = () => {}
