@@ -8,15 +8,11 @@ Fruit.eat()
 
 
 let val = 10;
-if (val > Fruit.MAX_FRUIT) {
-
-}
+if (val > Fruit.MAX_FRUIT) {}
 
 
 let val = 10;
-if (val > fruit.maxFruit) {
-
-}
+if (val > fruit.maxFruit) {}
 
 // ----------------------------------------
 
@@ -25,3 +21,8 @@ if (val > fruit.maxFruit) {
  dailyFruit = fruitSold * day;
 
 
+// ----------------------------------------
+
+value = isApple ? 10 : 20;
+
+value = isApple ? fruitPrice : vegetablePrice;

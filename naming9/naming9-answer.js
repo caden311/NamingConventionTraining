@@ -1,11 +1,10 @@
-// This one is up for debate.
+// Really comes down to consistency
 
-/* Good  C#? */
 function GetFruit() {
 
 }
 
-/* Good Javascript? */
+/* Good Javascript/typescript */
 function getFruit () {
 
 }

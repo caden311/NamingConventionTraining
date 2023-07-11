@@ -1,16 +1,14 @@
-// Up for debate
+// thoughts? no right answer..
 
-
-/* My Vote */
-// Placing and I before any interface plainly describes you're looking at an interface.
+// Good if planning one extending or implementing
 interface IFruitStand {
 }
 
-
+// Good
 interface FruitStand {
 }
 
 
 
-interface FruitStandIterface {
+interface FruitStandInterface {
 }
